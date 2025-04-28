@@ -1,3 +1,9 @@
+Group Members:-
+Neel Jogani
+Helin Patel
+Dhruvil Patel
+
+
 # Smart Resume Scanner
 
 This project uses AI to extract and analyze information from resumes (PDF and DOCX formats). It can extract key sections such as:
