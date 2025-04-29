@@ -22,6 +22,9 @@ This project uses AI to extract and analyze information from resumes (PDF and DO
 - Python 3.x
 - Install dependencies using `pip install -r requirements.txt`
 
+## Web Link
+https://ec459577b895b5e48c.gradio.live/
+
 ## Running the Application
 
 Run the app with the following command:
