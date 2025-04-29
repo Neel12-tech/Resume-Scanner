@@ -1,8 +1,8 @@
 # Group Members:-
 
-Neel Jogani
-Helin Patel
-Dhruvil Patel
+- Neel Jogani:- KU2407U094
+- Helin Patel:- KU2407U072
+- Dhruvil Patel:- Ku2407U052
 
 
 # Smart Resume Scanner
